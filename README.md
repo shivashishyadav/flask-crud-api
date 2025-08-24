@@ -5,17 +5,18 @@ A simple REST API built with **Flask** to practice basic CRUD (Create, Read, Upd
 ---
 
 ## 📂 Project Structure
-```.
-├── app.py # Main Flask app
-├── /static/
-|        |_style.css # Styles for frontend
-|
-├── /templates/
-|        |_index.html # Homepage (basic explanation of CRUD)
-|
-├── .gitignore
-├── README.md
-└── env/ (ignored) # Virtual environment
+```
+flask-crud-api/
+   ├── app.py # Main Flask app
+   ├── /static/
+   |        |_style.css # Styles for frontend
+   |
+   ├── /templates/
+   |        |_index.html # Homepage (basic explanation of CRUD)
+   |
+   ├── .gitignore
+   ├── README.md
+   └── env/ (ignored) # Virtual environment
 ```
 
 
